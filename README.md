@@ -40,7 +40,7 @@ transactions, currency exchange and portfolio management.
 
 React · TypeScript · Tailwind CSS
 
-🔗 Live Demo: https://investpro1-five.vercel.app/
+🔗 Live Demo: https://investpro.dev.br
 
 ## 📫 Connect with me
 
