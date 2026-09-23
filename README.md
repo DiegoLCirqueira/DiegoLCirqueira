@@ -54,7 +54,7 @@ It brings together financial assets, transactions, currency exchange
 and portfolio tracking in a single dashboard.
 
 - **Stack:** React · TypeScript · Tailwind CSS
-- **Live demo:** [investpro.dev.br](https://investpro.dev.br)
+- **Live:** [investpro.dev.br](https://investpro.dev.br)
 
 ## 📫 Let's Connect
 
