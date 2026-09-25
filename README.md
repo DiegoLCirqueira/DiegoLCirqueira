@@ -47,7 +47,7 @@ REST APIs · TDD/BDD · Clean Code
 
 ## 📌 Featured Project
 
-🚀### [InvestPro](https://investpro.dev.br)
+🚀 ### [InvestPro](https://investpro.dev.br)
 
 A personal investment management platform with AI-powered recommendations.
 It brings together financial assets, transactions, currency exchange
