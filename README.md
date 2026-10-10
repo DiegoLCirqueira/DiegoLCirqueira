@@ -45,15 +45,16 @@ and well-tested code.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-REST APIs · TDD/BDD · Clean Code
+REST APIs · Automated Tests · Clean Code
 
 ## 📌 Featured Project
 
 ### 🚀 [InvestPro](https://investpro.dev.br)
 
 An investment simulator (portfolio project with simulated operations) with rule-based recommendations.
-It brings together financial assets, transactions, currency exchange
-and portfolio tracking in a single dashboard.
+It lets you buy and sell stocks, crypto and fixed income with simulated money,
+convert between the Brazilian real and foreign currencies, keep a savings box
+that simulates a 100% CDI yield, and track portfolio evolution, diversification and risk.
 
 - **Stack:** React · TypeScript · Tailwind CSS · Node.js · Fastify · Prisma · PostgreSQL
 - **Live:** [investpro.dev.br](https://investpro.dev.br)
