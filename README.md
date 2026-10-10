@@ -1,21 +1,20 @@
 # Hi, I'm Diego Lins 👋
 
-**Full-stack developer building modern web applications with React, Node.js and TypeScript.**
-Computer Science student and developer based in Maceió, Brazil.
+**Full-stack developer building web applications with React, Node.js and TypeScript.**
+Computer Science student based in Maceió, Brazil.
 
-I have 2 years of professional experience developing and maintaining
+Nearly 5 years building software (open source and community work since 2021)
+and over 1 year in a corporate environment, developing and maintaining
 web applications, including enterprise systems in Java and Angular.
 Today I'm focused on the modern JavaScript ecosystem, clean architecture
 and well-tested code.
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **SEFAZ-AL**
-- 🎓 Computer Science student at **Estácio**
-- 🌱 Currently deepening my knowledge in **React, Node.js and TypeScript**
-- 🧪 Test-driven mindset: TDD/BDD, Clean Code, debugging and quality assurance
-- 🤖 Exploring AI-assisted software development
-- 📍 Maceió, Alagoas, Brazil
+- 💼 Software Development Intern at **SEFAZ-AL** (Java, Angular, TypeScript)
+- 🤝 Co-founder, **Guia Dev Brasil** (open source and tech education)
+- 🏢 Co-founder & COO, **Pantanal Studio** (software house)
+- 🚀 Building **InvestPro**, an investment simulator (portfolio project)
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +48,7 @@ REST APIs · TDD/BDD · Clean Code
 
 ### 🚀 [InvestPro](https://investpro.dev.br)
 
-A personal investment management platform with AI-powered recommendations.
+An investment simulator (portfolio project with simulated operations) with AI-powered recommendations.
 It brings together financial assets, transactions, currency exchange
 and portfolio tracking in a single dashboard.
 
