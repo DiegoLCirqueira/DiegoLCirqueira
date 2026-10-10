@@ -5,16 +5,19 @@ Computer Science student based in Maceió, Brazil.
 
 Nearly 5 years building software (open source and community work since 2021)
 and over 1 year in a corporate environment, developing and maintaining
-web applications, including enterprise systems in Java and Angular.
+web applications, including applications in Java and Angular.
 Today I'm focused on the modern JavaScript ecosystem, clean architecture
 and well-tested code.
 
 ## 👨‍💻 About Me
 
 - 💼 Software Development Intern at **SEFAZ-AL** (Java, Angular, TypeScript)
+- 🎓 Computer Science student at **Estácio**
 - 🤝 Co-founder, **Guia Dev Brasil** (open source and tech education)
 - 🏢 Co-founder & COO, **Pantanal Studio** (software house)
 - 🚀 Building **InvestPro**, an investment simulator (portfolio project)
+- 🧪 Automated tests, clean code and debugging
+- 🤖 Exploring AI-assisted software development
 
 ## 🛠️ Tech Stack
 
@@ -48,11 +51,11 @@ REST APIs · TDD/BDD · Clean Code
 
 ### 🚀 [InvestPro](https://investpro.dev.br)
 
-An investment simulator (portfolio project with simulated operations) with AI-powered recommendations.
+An investment simulator (portfolio project with simulated operations) with rule-based recommendations.
 It brings together financial assets, transactions, currency exchange
 and portfolio tracking in a single dashboard.
 
-- **Stack:** React · TypeScript · Tailwind CSS
+- **Stack:** React · TypeScript · Tailwind CSS · Node.js · Fastify · Prisma · PostgreSQL
 - **Live:** [investpro.dev.br](https://investpro.dev.br)
 
 ## 📫 Let's Connect
