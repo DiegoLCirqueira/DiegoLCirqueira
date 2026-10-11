@@ -1,23 +1,21 @@
 # Hi, I'm Diego Lins 👋
 
-**Full-stack developer building web applications with React, Node.js and TypeScript.**
-Computer Science student based in Maceió, Brazil.
+**Full-stack developer building modern web applications with React, Node.js and TypeScript.**
+Computer Science student and developer based in Maceió, Brazil.
 
-Nearly 5 years building software (open source and community work since 2021)
-and over 1 year in a corporate environment, developing and maintaining
-web applications, including applications in Java and Angular.
+I have 2 years of professional experience developing and maintaining
+web applications, including enterprise systems in Java and Angular.
 Today I'm focused on the modern JavaScript ecosystem, clean architecture
 and well-tested code.
 
 ## 👨‍💻 About Me
 
-- 💼 Software Development Intern at **SEFAZ-AL** (Java, Angular, TypeScript)
+- 💼 Software Developer at **SEFAZ-AL**
 - 🎓 Computer Science student at **Estácio**
-- 🤝 Co-founder, **Guia Dev Brasil** (open source and tech education)
-- 🏢 Co-founder & COO, **Pantanal Studio** (software house)
-- 🚀 Building **InvestPro**, an investment simulator (portfolio project)
-- 🧪 Automated tests, clean code and debugging
+- 🌱 Currently deepening my knowledge in **React, Node.js and TypeScript**
+- 🧪 Test-driven mindset: TDD/BDD, Clean Code, debugging and quality assurance
 - 🤖 Exploring AI-assisted software development
+- 📍 Maceió, Alagoas, Brazil
 
 ## 🛠️ Tech Stack
 
@@ -36,6 +34,7 @@ and well-tested code.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Tools & Practices**
@@ -44,18 +43,17 @@ and well-tested code.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-REST APIs · Automated Tests · Clean Code
+REST APIs · TDD/BDD · Clean Code
 
 ## 📌 Featured Project
 
 ### 🚀 [InvestPro](https://investpro.dev.br)
 
-An investment simulator (portfolio project with simulated operations) with rule-based recommendations.
-It lets you buy and sell stocks, crypto and fixed income with simulated money,
-convert between the Brazilian real and foreign currencies, keep a savings box
-that simulates a 100% CDI yield, and track portfolio evolution, diversification and risk.
+A personal investment management platform with AI-powered recommendations.
+It brings together financial assets, transactions, currency exchange
+and portfolio tracking in a single dashboard.
 
-- **Stack:** React · TypeScript · Tailwind CSS · Node.js · Fastify · Prisma · PostgreSQL
+- **Stack:** React · TypeScript · Tailwind CSS
 - **Live:** [investpro.dev.br](https://investpro.dev.br)
 
 ## 📫 Let's Connect
