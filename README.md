@@ -1,13 +1,14 @@
 # Hi, I'm Diego 👋
 
-I'm a full-stack developer from Maceió, Brazil, and a Computer Science student (graduating July 2027). I like building web products end to end, from the React interface to the API and the tests that keep it honest, and sharing what I learn with other developers.
+I'm a full-stack developer from Maceió, Brazil. I build web products with React, Node.js and TypeScript, and work with Java and Angular in a Scrum team at SEFAZ-AL. I co-founded a software house, Pantanal Studio, and take part in Guia Dev Brasil, an open source education community with 20,000 members. I'm finishing my Computer Science degree in 2027. I recently completed InvestPro, a live investment simulator with automated tests and CI, and I'm now building Leguelé Beer, an e-commerce site, with Next.js and NestJS.
 
 ## 👨‍💻 What I'm up to
 
 - 💼 Software development intern at **SEFAZ-AL**, working with Java, Spring and Angular in a Scrum team
 - 🏢 Co-founder & COO at **Pantanal Studio**, a software house delivering client projects from discovery to deployment
 - 🤝 Co-founder at **Guia Dev Brasil**, free tech education and open source. I collaborate on the repositories and in a community of 20,000 members
-- 🌱 Learning Next.js, NestJS and AWS
+- 🍺 Building **Leguelé Beer**, a mobile-first e-commerce site for a craft brewery (Next.js, NestJS, Prisma)
+- 🌱 Learning Next.js and NestJS by building, and AWS on the side
 - 🤖 Developing with Claude Code and AI agents, with automated tests and CI as the safety net
 
 ## 🛠️ Tech Stack
@@ -30,6 +31,12 @@ I'm a full-stack developer from Maceió, Brazil, and a Computer Science student 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Currently learning**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
 **Tools & practices**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -41,20 +48,21 @@ I'm a full-stack developer from Maceió, Brazil, and a Computer Science student 
 
 REST APIs · Automated tests · Clean code · Scrum
 
-## 📌 Featured project
+## 📌 Featured projects
 
-### 🚀 [InvestPro](https://investpro.dev.br)
+### 🍺 Leguelé Beer (in progress)
+
+A mobile-first e-commerce site for a craft brewery. The MVP is a complete checkout; build-your-own kits ("Mix & Match") and a monthly subscription club are planned next. Portfolio project.
+
+- **Stack:** Next.js · NestJS · Prisma · PostgreSQL (Supabase for database, login and file storage) · deployed on Vercel
+
+### 🚀 [InvestPro](https://investpro.dev.br) (completed)
 
 An investment simulator with simulated money: buy and sell stocks, crypto and fixed income, convert between the Brazilian real and foreign currencies, keep a savings box that simulates a 100% CDI yield, and track portfolio evolution, diversification and risk. Recommendations are rule-based. It is a portfolio project, not a financial institution.
 
 - **Stack:** React 19 · TypeScript · Tailwind CSS · Node.js · Fastify · Prisma · PostgreSQL
 - **Quality:** Vitest and Testing Library on the frontend, Vitest and Supertest on the API, CI with GitHub Actions on every pull request (tests and secret scanning)
 - **Live:** [investpro.dev.br](https://investpro.dev.br)
-- **Code:** [InvestPro-Portfolio](https://github.com/DiegoLCirqueira/InvestPro-Portfolio)
-
-### 🍺 Next up: Leguelé Beer
-
-A mobile-first e-commerce site for a craft brewery, planned with Next.js, NestJS and Prisma. Portfolio project, currently in planning.
 
 ## 🤝 Community
 
