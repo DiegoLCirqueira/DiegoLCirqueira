@@ -7,8 +7,7 @@ I'm a full-stack developer from Maceió, Brazil, and a Computer Science student 
 - 💼 Software development intern at **SEFAZ-AL**, working with Java, Spring and Angular in a Scrum team
 - 🏢 Co-founder & COO at **Pantanal Studio**, a software house delivering client projects from discovery to deployment
 - 🤝 Co-founder at **Guia Dev Brasil**, free tech education and open source. I collaborate on the repositories and in a community of 20,000 members
-- 🚀 Building **InvestPro**, an investment simulator and my main portfolio project
-- 🌱 Learning Next.js, NestJS, AWS and technical English
+- 🌱 Learning Next.js, NestJS and AWS
 - 🤖 Developing with Claude Code and AI agents, with automated tests and CI as the safety net
 
 ## 🛠️ Tech Stack
