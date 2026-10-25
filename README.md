@@ -3,7 +3,7 @@
 **Full-stack developer building modern web applications with React, Node.js and TypeScript.**
 Computer Science student and developer based in Maceió, Brazil.
 
-I have 2 years of professional experience developing and maintaining
+I have 4 years of professional experience developing and maintaining
 web applications, including enterprise systems in Java and Angular.
 Today I'm focused on the modern JavaScript ecosystem, clean architecture
 and well-tested code.
